@@ -1,0 +1,37 @@
+.myFont{
+    font-style: underline;
+}
+.tabname{
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+.nav1{
+    position: absolute;
+    top: 30px;
+    right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav2{
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    height 100px;
+}
+.nav3{
+    position: absolute;
+    top: 30px;
+    right: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    height 100px;
+}
+.addbg{
+    background-color: ivory;
+}
+.center{
+    left: auto;
+    right: auto;
+}
